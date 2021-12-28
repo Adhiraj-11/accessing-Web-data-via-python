@@ -1,0 +1,11 @@
+Transport contropl protocol (TCP)
+
+handles flow of control using trasmit window
+
+an internet socket is or network socket is an end point of bidirectional inter porcess communication flow accross
+an internet protocol such as internet
+
+TCP PORT NUMBERS
+
+aloows multiple networked applications to coexist on the same server
+ 
