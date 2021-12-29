@@ -1,0 +1,5 @@
+when a program or script pretends to be a browser
+
+search engines scrape web pages
+web crawling or spidering the web
+
