@@ -2,7 +2,7 @@ import re
 
 sum = 0
 
-file = open("one.txt")
+file = open("")
 
 x = []
 for line in file:
