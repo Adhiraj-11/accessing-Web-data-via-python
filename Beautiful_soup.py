@@ -17,11 +17,3 @@ tags = soup('a')
 for tag in tags:
    print(tag.get('href', None))
 
-#nabeeha 
-
-#http://py4e-data.dr-chuck.net/known_by_Jorji.html
-#http://py4e-data.dr-chuck.net/known_by_Amelka.html
-#http://py4e-data.dr-chuck.net/known_by_Tarik.html
-#http://py4e-data.dr-chuck.net/known_by_Emma.html
-#http://py4e-data.dr-chuck.net/known_by_Louise.html
-#http://py4e-data.dr-chuck.net/known_by_Liberty.html
