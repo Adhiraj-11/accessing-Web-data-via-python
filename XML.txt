@@ -1,0 +1,6 @@
+Tags indicate the begining and ending of elements
+
+Attributes are the key value pairs
+
+Serialize/De-Serialize converting data from one language into a common format that can be stored and/or transmitted between systems of 
+diffrent programming languages 
