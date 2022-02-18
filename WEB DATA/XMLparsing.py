@@ -28,8 +28,8 @@ input='''<stuff>
     </users>
 </stuff>'''
 
-stuff=ET.fromstring(input)
-lst=stuff.findall('users/user')
+stuff = ET.fromstring(input)
+lst = stuff.findall('users/user')
 print('User count:',len(lst))
 
 for item in lst:
